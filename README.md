@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lithdoh
 - 👀 I’m interested in MOUNTAIN BIKING
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning front end web development with Angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
